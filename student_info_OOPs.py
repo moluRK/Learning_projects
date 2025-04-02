@@ -6,13 +6,13 @@ class Student:
             "B2455R1017508", "B2455R10175010", "B2455R10175016", "B2455R10175018"
         ]
         self.aced_info = {
-            "B2455R1017501": "Name: Shivam Bagri, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
+            "B2455R1017501": "Name: Shivam Dwivedi, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
             "B2455R1017502": "Name: Deependra Prajapati, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
             "B2455R1017504": "Name: Yogesh Mishra, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
-            "B2455R1017505": "Name: QWE, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
-            "B2455R1017506": "Name: RTY, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
-            "B2455R1017507": "Name: UIO, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
-            "B2455R1017508": "Name: ASD, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
+            "B2455R1017505": "Name: Dheerendra Mishra, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
+            "B2455R1017507": "Name: Nikita , Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
+            "B2455R1017508": "Name: Vikash Verma, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
+            "B2455R1017503": "Name: Ayush Kumar, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
             "B2455R10175010": "Name: Moluram Kushwaha, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
             "B2455R10175016": "Name: Harsh Shukla, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year",
             "B2455R10175018": "Name: Aryan Soni, Program: B.Tech., Course: CSE (Cyber Security), Academic Year: 1st Year"
